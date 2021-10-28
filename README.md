@@ -19,8 +19,6 @@
 
 Microserviço que cadastra usuários em seus determinados departamentos.
 
-![image](https://user-images.githubusercontent.com/37052811/137640899-9c2c1bd9-7de0-4d3f-9ddc-9bf33fc18fea.png)
-
 ## Objetivos 
 
 Estou construindo este microserviço para aprender a arquitetura do mesmo, utilizando spring e assim ganhar alguma experiência com essas tecnologias.
